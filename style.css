@@ -1,3 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.purpose-point h1{
+    font-size:50px;
+}
+.faded{
+    color:#af3c6285;
+}
+.deep{
+    color:#AC3B61;
+}
