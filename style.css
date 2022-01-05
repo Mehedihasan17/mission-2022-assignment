@@ -44,3 +44,30 @@ body{
     text-align:center;
     margin-top:50px;
 }
+#mission h3{
+    text-align:center;
+    padding-bottom:10px;
+}
+#mission img{
+    width:70%;
+    height:10%;
+    margin-left:60px;
+
+}
+#mission{
+    width:35%;
+    background-color:#edc7b78c;
+    padding-left:30px; 
+    padding-bottom:30px;
+    padding-right:30px;  
+
+}
+#vison h3{
+    text-align:center;
+    padding-bottom:10px;
+}
+#vision img{
+    width:70%;
+    height:10%;
+    margin-left:60px;
+}
