@@ -1,12 +1,37 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    margin-top:100px;
+    margin-left:100px;
+    margin-right:50px;
+    margin-bottom:40px;
 }
 .purpose-point h1{
     font-size:50px;
+    border-left:5px solid #123C69;
+    border-image:linear-gradient(#123C69);
+}
+.purpose-point{
+    width:50%;
+    
+}
+.purpose-point img{
+    width:65%;
+    padding-left:150px;
 }
 .faded{
     color:#af3c6285;
 }
 .deep{
     color:#AC3B61;
+}
+.blue{
+    color:#123C69;
+}
+.linked-button{
+    text-decoration: none;
+    background-image: linear-gradient(#EDC7B7);
+}
+.introduction-solutions{
+    display:flex;
+    
 }
