@@ -28,10 +28,19 @@ body{
     color:#123C69;
 }
 .linked-button{
-    text-decoration: none;
-    background-image: linear-gradient(#EDC7B7);
+    color:#AC3B61;
+    text-decoration:none;
+    background-color: #EDC7B7;
+    padding:12px 33px;
+    font-weight:700;
+    border-radius:20px;
 }
 .introduction-solutions{
     display:flex;
     
+}
+.missions h1{
+    font-size:50px;
+    text-align:center;
+    margin-top:50px;
 }
