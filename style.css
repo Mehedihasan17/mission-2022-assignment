@@ -5,10 +5,11 @@ body{
     margin-right:50px;
     margin-bottom:40px;
 }
-.purpose-point h1{
-    font-size:50px;
-    border-left:5px solid #123C69;
+.vertical-line{
+    font-size:45px;
+    border-left:8px solid #123C69;
     border-image:linear-gradient(#123C69);
+    border-radius:5px 5px;
 }
 .purpose-point{
     width:50%;
@@ -37,8 +38,11 @@ body{
 }
 .introduction-solutions{
     display:flex;
+    padding-bottom:30px;
+   
     
 }
+
 .missions h1{
     font-size:50px;
     text-align:center;
@@ -50,24 +54,51 @@ body{
 }
 #mission img{
     width:70%;
-    height:10%;
-    margin-left:60px;
-
+    margin-left:50px;
+    
 }
 #mission{
     width:35%;
-    background-color:#edc7b78c;
+    background-color:#ac3b613d;
     padding-left:30px; 
     padding-bottom:30px;
-    padding-right:30px;  
+    padding-right:30px; 
+    margin-right:20px; 
+    border-radius:25px;
 
 }
-#vison h3{
+#vision h3{
     text-align:center;
     padding-bottom:10px;
 }
 #vision img{
     width:70%;
-    height:10%;
-    margin-left:60px;
+    margin-left:50px;
+   
+}
+#vision{
+    width:35%;
+    background-color:#d1e23d5d;
+    padding-left:30px; 
+    padding-bottom:30px;
+    padding-right:30px; 
+    margin-right:20px; 
+    border-radius:25px;
+}
+#goals h3{
+    text-align:center;
+    padding-bottom:10px;
+}
+#goals img{
+    width:70%;
+    margin-left:50px;
+}
+#goals{
+    width:35%;
+    background-color:#3de0d263;
+    padding-left:30px; 
+    padding-bottom:30px;
+    padding-right:30px; 
+    border-radius:25px;
+    margin-right:20px; 
 }
