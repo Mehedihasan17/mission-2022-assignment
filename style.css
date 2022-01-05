@@ -8,22 +8,30 @@ body{
 .vertical-line{
     font-size:45px;
     border-left:8px solid #123C69;
-    border-image:linear-gradient(#123C69);
+    
     border-radius:5px 5px;
+    padding-left:10px;
+   
+    
 }
 .purpose-point{
-    width:50%;
+    width:55%;
+   
+   
     
 }
 .purpose-point img{
-    width:65%;
-    padding-left:150px;
+    width:75%;
+    padding-left:100px;
+    border-radius:30px;
+ 
 }
 .faded{
     color:#af3c6285;
 }
 .deep{
     color:#AC3B61;
+    font-weight: 500;
 }
 .blue{
     color:#123C69;
@@ -38,7 +46,7 @@ body{
 }
 .introduction-solutions{
     display:flex;
-    padding-bottom:30px;
+    padding-bottom:60px;
    
     
 }
@@ -101,4 +109,10 @@ body{
     padding-right:30px; 
     border-radius:25px;
     margin-right:20px; 
+}
+.learn-more{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 215px;
+    
 }
