@@ -1,12 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
     margin-top:100px;
-    margin-left:100px;
-    margin-right:50px;
-    margin-bottom:40px;
+    margin-left:0px;
+    margin-right:0px;
+   
 }
 .vertical-line{
-    font-size:45px;
+    font-size:44px;
     border-left:8px solid #123C69;
     
     border-radius:5px 5px;
@@ -47,6 +47,9 @@ body{
 .introduction-solutions{
     display:flex;
     padding-bottom:60px;
+    margin-left:100px;
+    margin-right:50px;
+    
    
     
 }
@@ -111,9 +114,10 @@ body{
     margin-right:20px; 
 }
 .learn-more{
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
-    background-size: 215px;
+    background-size: 200px;
+    background-position:left center;
     
 }
 .sharing-datas{
@@ -121,4 +125,19 @@ body{
     background-repeat: no-repeat;
     background-position:bottom right;
     background-size: 170px;
+}
+.taking-oath h1{
+    font-size:43px;
+    font-weight:800;
+    text-align: center;
+    padding-top:10px;
+}
+.taking-oath{
+    background-color: #ecb69f;
+    height: 130px;
+}
+footer{
+    text-align: center;
+    padding-bottom:10px;
+    
 }
