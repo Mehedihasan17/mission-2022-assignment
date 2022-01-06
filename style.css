@@ -39,7 +39,7 @@ body{
 .linked-button{
     color:#AC3B61;
     text-decoration:none;
-    background-color: #EDC7B7;
+    background-image:linear-gradient(#ee8e76,#ecb69f,#ee8e76);
     padding:12px 33px;
     font-weight:700;
     border-radius:20px;
@@ -115,4 +115,10 @@ body{
     background-repeat: no-repeat;
     background-size: 215px;
     
+}
+.sharing-datas{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    background-size: 170px;
 }
