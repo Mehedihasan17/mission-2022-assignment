@@ -1,6 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    margin-top:100px;
+    margin-top:60px;
     margin-left:0px;
     margin-right:0px;
    
@@ -14,15 +14,24 @@ body{
    
     
 }
+.purpose-point h1{
+    font-size:59px;
+
+}
+.purpose-point h2{
+    font-size:50px;
+}
+
+
 .purpose-point{
-    width:75%;
+    width:45%;
    
    
     
 }
 .purpose-point img{
     width:75%;
-    padding-left:70px;
+    padding-left:100px;
     
  
 }
@@ -53,6 +62,9 @@ body{
    
     
 }
+.coloring-header{
+    color:#AC3B61;
+}
 
 .missions h1{
     font-size:50px;
@@ -60,6 +72,7 @@ body{
     margin-top:50px;
 }
 #mission h3{
+    
     text-align:center;
     padding-bottom:10px;
 }
@@ -114,18 +127,16 @@ body{
     margin-right:20px; 
 }
 .learn-more{
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-size: 80px;
+    
+    background-size: 70px;
     background-position: left center;
-    padding-bottom:-1px;
+   
     
 }
-.sharing-datas{
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-position:bottom right;
-    background-size: 170px;
+.sharing-datas h1{
+    font-size: 35px;
+  
+   
 }
 .taking-oath h1{
     font-size:43px;
